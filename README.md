@@ -3,7 +3,6 @@ Kyivstar Big Data School 2'nd stage of selection task
 
 [Big Data School Page](https://bigdata.kyivstar.ua/school/?utm_source=eSputnik-promo&utm_medium=email&utm_campaign=DIGITAL-9197_promo_email_2&utm_content=690913666#)
 
----
 ## Перевіряємо, що було завантажено і навіщо.
 
 Архів містить 4 файли:
@@ -48,7 +47,6 @@ Kyivstar Big Data School 2'nd stage of selection task
 
 Для цього вам необхідно використати дані з файлів **tabular_data** та **hashed_data**. Після цього, використовуючи вашу модель, потрібно для абонентів з файлу **test_target** оцінити **SCORE** – ймовірність того, що абонент відноситься до сегменту батьків. Зверніть увагу, що необхідно спрогнозувати факт відношення до сегменту батьків, без прив'язки до періоду.
 
----
 ## Оформлення рішення – зберігаємо результати
 
 Зберігаємо передбачене значення **SCORE** для тестової вибірки у файл **MoyePrizvyshcheMoyeImya_test.txt** в такому ж форматі, як у файлі **PetrenkoPetro_test.txt**, де **MoyePrizvyshcheMoyeImya** = ваше прізвище і ваше ім'я.
@@ -65,12 +63,10 @@ Kyivstar Big Data School 2'nd stage of selection task
 * **MoyePrizvyshcheMoyeImyaPROGRAM.py**,
 * **MoyePrizvyshcheMoyeImyaPROGRAM.txt** і т.д.
 
----
 ## Надсилаємо рішення
 
 Готове рішення (файли з результатом та кодом) завантажуємо одним архівом у форматах **.zip** або **.rar** у спеціальну форму на сайті на [сайті](https://bigdata.kyivstar.ua/school/?utm_source=eSputnik-promo&utm_medium=email&utm_campaign=%5Bkopija%5D_%5Bkopija%5D_promo_email_2&utm_content=690913666#anchor-4).
 
----
 ## Чекаємо на результати
 
 Тепер можна відпочивати і чекати від нас листа :)
@@ -89,5 +85,3 @@ Kyivstar Big Data School 2'nd stage of selection task
 
 Залишаймось на зв’язку,  
 Big Data School від Київстар.
-
----
